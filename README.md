@@ -1,4 +1,4 @@
-# co2app
+# Using Streamlit to create an interactive page for your data
 
 First:
 
