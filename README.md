@@ -1,5 +1,7 @@
 # Using Streamlit to create an interactive page for your data
 
+This repo contains material from the [DataHarvest workshop by Remi Labed](https://github.com/r3mlab/dh2023-streamlit-demo/tree/main/co2app). Remi [works for Disclose.ngo](https://disclose.ngo/en/page/team)
+
 First:
 
 ```
